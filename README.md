@@ -5,6 +5,8 @@ University of Bologna · Kosar Mazaheri
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kosaremazahery/REPO-NAME/blob/main/notebooks/compas_fairness.ipynb)
 
+Presentation link: https://canva.link/51eqyligyk1l34g
+
 ---
 
 ## The question
